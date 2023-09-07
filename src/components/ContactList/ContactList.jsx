@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
+import css from './ContactList.module.css';
 import  ContactListItem  from 'components/ContactListItem/ContactListItem'
-import css from './ContactList.module.css'
 
 const ContactList = ({ filtredСontacts, deleteContact }) => {
 	return (
