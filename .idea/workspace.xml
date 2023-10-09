@@ -5,31 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1f11c0bd-f57f-4966-8f6b-51c840b69e2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/App.styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App/App.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/App/App.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ContactForm/ContactForm.styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/ContactList/ContactList.styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Filter/Filter.styled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Notification/Notification.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/contactsSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/filterSlice.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/selectors.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/redux/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/App.module.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContactForm/ContactForm.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactForm/ContactForm.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContactForm/ContactForm.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactForm/ContactForm.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContactList/ContactList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactList/ContactList.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContactList/ContactList.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactList/ContactList.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContactListItem/ContactListItem.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactItem/ContactItem.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/ContactListItem/ContactListItem.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ContactItem/ContactItem.styled.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Filter/Filter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Filter/Filter.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Filter/Filter.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Filter/Filter.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,20 +27,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/button/Documents/goit-course/goit-react-hw-05-movies",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="JetRunConfigurationType">
       <module name="goit-react-hw-04-phonebook" />
@@ -88,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1696700903377</updated>
       <workItem from="1696700904431" duration="2219000" />
+      <workItem from="1696866145947" duration="3207000" />
     </task>
     <servers />
   </component>
