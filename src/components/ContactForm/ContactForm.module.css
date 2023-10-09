@@ -1,33 +1,28 @@
-.contactForm {
+.form {
     display: flex;
-    align-items: center;
-    justify-content: center;
+    width: 400px;
+    padding: 10px;
     gap: 20px;
-}
-
-.label {
-    font-size: 18px;
-    text-transform: uppercase;
-    font-weight: 600;
-    color: black;
+    flex-wrap: wrap;
+    border: 2px solid #fda117;
 }
 .input {
-    margin-left: 15px;
-    padding: 5px 0px 5px 10px ;
-    border-radius: 4px;
-    border: 1px solid rgb(96, 96, 96);
+    height: 25px;
+    padding: 4px;
+    width: 300px;
+    border-radius: 5px;
 }
-.submitBtn {
-    width: 120px;
-    cursor: pointer;
-    text-transform: uppercase;
-    padding: 10px 10px;
-    border: 1px solid rgb(102, 102, 102);
-    border-radius: 50px;
-    font-weight: 700;
-    background-color: rgb(201, 201, 201);
+.label {
+    width: 400px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+    padding: 4px 5px;
 }
-.submitBtn:hover {
-    color: rgb(255, 255, 255);
-    background-color: rgb(93, 182, 37);
+.button {
+    height: 30px;
+    width: 100px;
+    padding: 4px;
+    font-weight: 500px;
+    background-color: #fda117;
 }
